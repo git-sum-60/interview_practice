@@ -1,0 +1,22 @@
+some sort of if statement to compare two numbers
+  then do something different if true/false
+
+keep track of two indices
+  increment both indices
+need two loops
+loop through entire array mutiple times
+
+some way to keep track of/tell when a number is in the correct position
+so we don't need to check it anymore
+
+
+
+keeping track of inputs and outputs
+
+“Ok player 1 rolls a 6. I’ll have to keep track of that”
+“Player 1 rolls a 3. Keep track of that"
+“Player 2 rolls a 4. Keep track of that"
+“Player 2 rolls a 1. Keep track of that"
+
+
+
